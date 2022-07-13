@@ -1,0 +1,1 @@
+This bot was created for notifying user about new ads by telegram. OLX website does the same thing but is slower, hence the idea for the bot. Notification about new ad includes: title, price, place and link. Bot checks for new ads every 30 seconds.
