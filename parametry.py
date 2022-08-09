@@ -1,6 +1,6 @@
 import telebot
 
-bot = telebot.TeleBot('wstaw_token_bota',num_threads=6) #domyslna liczba threadow = 2
+bot = telebot.TeleBot('wstaw_token_bota', num_threads = 6) #domyslna liczba threadow = 2
 
 users_id = {}
 
