@@ -1,5 +1,5 @@
 # OLX bot
-This bot was created for notifying user about new ads by telegram. OLX website does the same thing but is slower, hence the idea for the bot. Notification about new ad includes: title, price, place and link. Bot checks for new ads every 30 seconds. Libraries used for this project are Selenium and [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI).
+This bot was created for notifying user about new ads by telegram. OLX website does the same thing but is slower, hence the idea for the bot. Notification about new ad includes: title, price, place and link. Bot checks for new ads every 30 seconds. Libraries used for this project are [Selenium](https://www.selenium.dev) and [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI).
 
 /on - start bot  
 /off - shutdown bot  
